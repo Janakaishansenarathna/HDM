@@ -201,5 +201,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Built with ❤️ by the H. Dilpriya Research Team**
+**Built with ❤️ by the Janaka Ishan Senarathna**
 #
